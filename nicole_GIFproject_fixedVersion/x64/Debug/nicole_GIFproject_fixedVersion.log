@@ -1,0 +1,13 @@
+﻿  linkedList.c
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(21,1): warning C4005: 'TRUE': macro redefinition
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.h(14): message : see previous definition of 'TRUE'
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(109,71): error C2106: '=': left operand must be l-value
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(218,31): warning C4047: 'function': 'FrameNode *' differs in levels of indirection from 'FrameNode **'
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(218,27): warning C4024: 'isFrameNameExists': different types for formal and actual parameter 1
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(220,35): warning C4047: 'function': 'FrameNode **' differs in levels of indirection from 'FrameNode ***'
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(220,30): warning C4024: 'delete_frame_by_name': different types for formal and actual parameter 1
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(265,13): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(281,21): warning C4047: 'return': 'char' differs in levels of indirection from 'char [11]'
+  projectRelatedActions.c
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\projectRelatedActions.c(25,9): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
